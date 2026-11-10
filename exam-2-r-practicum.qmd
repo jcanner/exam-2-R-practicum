@@ -29,7 +29,7 @@ He then recorded the actual `distance`, the `time` (total commute time in hours:
 
 The data are found in the data folder as `bike-commute.csv`.  
 
-### Import the Data
+### Import the Data (and Packages)
 
 Import the data as the object `bike_commute`, be sure to hide any unnecessary output.  
 
